@@ -86,7 +86,7 @@ export default function AppointmentPage() {
           appointmentDate: '',
           reason: '',
         });
-        navigate('/userLanding');
+        navigate(-1);
       } else {
         alert('Failed to schedule appointment.');
       }

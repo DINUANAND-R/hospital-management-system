@@ -1,7 +1,5 @@
 {
   "name": "frontend",
-  "homepage": "https://DINU-ANAND-C-R.github.io/Hospital_Management_System/",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,8 +7,6 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run built",
-    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "axios": "^1.9.0",
