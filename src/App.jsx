@@ -6,7 +6,7 @@ import Services from './Components/Services';
 import Role from './Components/Role';
 import UserSignUp from './Components/UserSignUp';
 import DoctorSignUp from './Components/DoctorSignUp';
-import DoctorLogin from './Components/doctorLogin';
+import DoctorLogin from './Components/DoctorLogin';
 import UserLogin from './Components/userLogin';
 import AdminLogin from './Components/AdminLogin';
 import UserLanding from './Components/UserLanding';
